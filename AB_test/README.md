@@ -36,5 +36,4 @@
 
 ## Используемые библиотеки
 
-pandas, numpy, matplotlib.pyplot, scipy.stats as stats
-
+pandas, numpy, matplotlib.pyplot, scipy.stats
