@@ -10,50 +10,50 @@
 
 *Библиотеки: pandas*
 
-### 2. [Исследование надёжности заёмщиков](https://github.com/valeriia-utgof/edu_projects/tree/main/credit_scoring)
+#### 2. [Исследование надёжности заёмщиков](https://github.com/valeriia-utgof/edu_projects/tree/main/credit_scoring)
 
-1
-
-*Библиотеки: pandas*
-
-### 3. [Исследование объявлений о продаже квартир в Санкт-Петербурге](https://github.com/valeriia-utgof/edu_projects/tree/main/real_estate_spb)
-
-ы
+Исследование надёжности заёмщиков на основе данных кредитного отдела банка. Влияние семейного положения и количества детей клиента на факт возврата кредита в срок.
 
 *Библиотеки: pandas*
 
-### 4. [Определение перспективного тарифа для телеком-компании](https://github.com/valeriia-utgof/edu_projects/tree/main/telecom_operator_tariffs)
+#### 3. [Исследование объявлений о продаже квартир в Санкт-Петербурге](https://github.com/valeriia-utgof/edu_projects/tree/main/real_estate_spb)
 
-ы
+Определение рыночной стоимости объектов недвижимости и типичные параметры квартир на основе данных сервиса Яндекс.Недвижимость.
 
-*Библиотеки: pandas*
+*Библиотеки: pandas, numpy, matplotlib.pyplot, seaborn*
 
-### 5. [Исследование рынка видеоигр](https://github.com/valeriia-utgof/edu_projects/tree/main/video_games_sales)
+#### 4. [Определение перспективного тарифа для телеком-компании](https://github.com/valeriia-utgof/edu_projects/tree/main/telecom_operator_tariffs)
 
-ы
+Анализ поведения клиентов и поиск оптимального тарифа на основе данных клиентов оператора сотовой связи.
 
-*Библиотеки: pandas*
+*Библиотеки: pandas, numpy, scipy, matplotlib.pyplot, seaborn*
 
-### 6. [Маркетинговое исследование приложения](https://github.com/valeriia-utgof/edu_projects/tree/main/marketing_analysis)
+#### 5. [Исследование рынка видеоигр](https://github.com/valeriia-utgof/edu_projects/tree/main/video_games_sales)
 
-ы
+Анализ закономерностей, влияющих на успешность видеоигр на основе исторических данных (продажи, оценки пользователей и экспертов, жанры и платформы) рынка компьютерных игр.
 
-*Библиотеки: pandas*
+*Библиотеки: pandas, numpy, scipy, matplotlib.pyplot, seaborn*
 
-### 7. [Анализ A/B-теста для интернет-магазина](https://github.com/valeriia-utgof/edu_projects/tree/main/AB_test)
+#### 6. [Маркетинговое исследование приложения](https://github.com/valeriia-utgof/edu_projects/tree/main/marketing_analysis)
 
-ы
+Определение причин убыточности маркетинговой компании по продвижению приложения с применением когортного анализа и рассчёта метрик (Retention Rate, LTV, CAC, ROMI).
 
-*Библиотеки: pandas*
+*Библиотеки: pandas, numpy, matplotlib.pyplot*
 
-### 8. [Рынок заведений общественного питания Москвы](https://github.com/valeriia-utgof/edu_projects/tree/main/public_catering_moscow)
+#### 7. [Анализ A/B-теста для интернет-магазина](https://github.com/valeriia-utgof/edu_projects/tree/main/AB_test)
 
-ы
+Приоритизация гипотез увеличения выручки интернет-магазина по фреймворкам ICE и RICE. Оценка результатов A/B-тестирования различными методами (в т.ч. подсчет кумулятивной выручки, среднего чека и конверсии по группам).
 
-*Библиотеки: pandas*
+*Библиотеки: pandas, numpy, matplotlib.pyplot, scipy.stats*
 
-### 9. [Исследование воронки событий мобильного приложения](https://github.com/valeriia-utgof/edu_projects/tree/main/sales_funnel)
+#### 8. [Рынок заведений общественного питания Москвы](https://github.com/valeriia-utgof/edu_projects/tree/main/public_catering_moscow)
 
-ы
+Исследование рынка общественного питания на основе открытых данных, выявление предпочтительных мест открытия точки общепита.
 
-*Библиотеки: pandas*
+*Библиотеки: pandas, matplotlib.pyplot, seaborn*
+
+#### 9. [Исследование воронки событий мобильного приложения](https://github.com/valeriia-utgof/edu_projects/tree/main/sales_funnel)
+
+Исследование действий пользователей мобильного приложения, путь от основного экрана до покупки товара, построение воронки продаж. Проведен анализ A/A/B-тестирования.
+
+*Библиотеки: pandas, numpy, matplotlib.pyplot, seaborn, plotly, scipy*
