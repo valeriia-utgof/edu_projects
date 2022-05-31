@@ -6,6 +6,10 @@
 
 ### 1. [Исследование сервиса Яндекс.Музыка, сравнение пользователей двух городов](https://github.com/valeriia-utgof/edu_projects/tree/main/yandex_music_moscow_spb)
 
+Сравнение предпочтений пользователей Яндекс.Музыки из Москвы и Санкт-Петербурга в зависимости от времени (утро и вечер) и дня недели (понедельник, среда, пятница).
+
+*Библиотеки: pandas
+
 ### 2. [Исследование надёжности заёмщиков](https://github.com/valeriia-utgof/edu_projects/tree/main/credit_scoring)
 
 ### 3. [Исследование объявлений о продаже квартир в Санкт-Петербурге](https://github.com/valeriia-utgof/edu_projects/tree/main/real_estate_spb)
