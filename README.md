@@ -4,7 +4,7 @@
 
 Данные проекты были выполнены в ходе обучения в Яндекс.Практикуме, курс "Аналитик данных".
 
-### 1. [Исследование сервиса Яндекс.Музыка, сравнение пользователей двух городов](https://github.com/valeriia-utgof/edu_projects/tree/main/yandex_music_moscow_spb)
+#### 1. [Исследование сервиса Яндекс.Музыка, сравнение пользователей двух городов](https://github.com/valeriia-utgof/edu_projects/tree/main/yandex_music_moscow_spb)
 
 Сравнение предпочтений пользователей Яндекс.Музыки из Москвы и Санкт-Петербурга в зависимости от времени (утро и вечер) и дня недели (понедельник, среда, пятница).
 
@@ -12,16 +12,48 @@
 
 ### 2. [Исследование надёжности заёмщиков](https://github.com/valeriia-utgof/edu_projects/tree/main/credit_scoring)
 
+1
+
+*Библиотеки: pandas*
+
 ### 3. [Исследование объявлений о продаже квартир в Санкт-Петербурге](https://github.com/valeriia-utgof/edu_projects/tree/main/real_estate_spb)
+
+ы
+
+*Библиотеки: pandas*
 
 ### 4. [Определение перспективного тарифа для телеком-компании](https://github.com/valeriia-utgof/edu_projects/tree/main/telecom_operator_tariffs)
 
+ы
+
+*Библиотеки: pandas*
+
 ### 5. [Исследование рынка видеоигр](https://github.com/valeriia-utgof/edu_projects/tree/main/video_games_sales)
+
+ы
+
+*Библиотеки: pandas*
 
 ### 6. [Маркетинговое исследование приложения](https://github.com/valeriia-utgof/edu_projects/tree/main/marketing_analysis)
 
+ы
+
+*Библиотеки: pandas*
+
 ### 7. [Анализ A/B-теста для интернет-магазина](https://github.com/valeriia-utgof/edu_projects/tree/main/AB_test)
+
+ы
+
+*Библиотеки: pandas*
 
 ### 8. [Рынок заведений общественного питания Москвы](https://github.com/valeriia-utgof/edu_projects/tree/main/public_catering_moscow)
 
+ы
+
+*Библиотеки: pandas*
+
 ### 9. [Исследование воронки событий мобильного приложения](https://github.com/valeriia-utgof/edu_projects/tree/main/sales_funnel)
+
+ы
+
+*Библиотеки: pandas*
