@@ -6,18 +6,18 @@
 
 ### 1. [Исследование сервиса Яндекс.Музыка, сравнение пользователей двух городов](https://github.com/valeriia-utgof/edu_projects/tree/main/yandex_music_moscow_spb)
 
-### 2. Исследование надёжности заёмщиков
+### 2. [Исследование надёжности заёмщиков](https://github.com/valeriia-utgof/edu_projects/tree/main/credit_scoring)
 
-### 3. Исследование объявлений о продаже квартир в Санкт-Петербурге
+### 3. [Исследование объявлений о продаже квартир в Санкт-Петербурге](https://github.com/valeriia-utgof/edu_projects/tree/main/real_estate_spb)
 
-### 4. Определение перспективного тарифа для телеком-компании
+### 4. [Определение перспективного тарифа для телеком-компании](https://github.com/valeriia-utgof/edu_projects/tree/main/telecom_operator_tariffs)
 
-### 5. Исследование рынка видеоигр
+### 5. [Исследование рынка видеоигр](https://github.com/valeriia-utgof/edu_projects/tree/main/video_games_sales)
 
-### 6. Маркетинговое исследование приложения
+### 6. [Маркетинговое исследование приложения](https://github.com/valeriia-utgof/edu_projects/tree/main/marketing_analysis)
 
-### 7. Анализ A/B-теста для интернет-магазина
+### 7. [Анализ A/B-теста для интернет-магазина](https://github.com/valeriia-utgof/edu_projects/tree/main/AB_test)
 
-### 8. Рынок заведений общественного питания Москвы
+### 8. [Рынок заведений общественного питания Москвы](https://github.com/valeriia-utgof/edu_projects/tree/main/public_catering_moscow)
 
-### 9. Исследование воронки событий мобильного приложения
+### 9. [Исследование воронки событий мобильного приложения](https://github.com/valeriia-utgof/edu_projects/tree/main/sales_funnel)
