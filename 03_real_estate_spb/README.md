@@ -37,7 +37,3 @@
 
 pandas, numpy, matplotlib.pyplot, seaborn
 
-
-```python
-
-```
